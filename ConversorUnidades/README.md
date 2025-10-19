@@ -1,4 +1,4 @@
-Prompt utilizado:
+# Prompt utilizado:
 
 "Explícame cómo crear una librería en Java que permita reutilizar código para convertir unidades de medida como temperatura (Celsius, Fahrenheit, Kelvin), distancia (kilómetros a millas) y peso (kilogramos a libras). Solo quiero lo básico: estructura de carpetas, clases necesarias y ejemplos simples de uso."
 
