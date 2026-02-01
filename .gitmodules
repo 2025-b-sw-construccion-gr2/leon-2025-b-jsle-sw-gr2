@@ -4,3 +4,6 @@
 [submodule "Calculadora/Resta"]
 	path = Calculadora/Resta
 	url = https://github.com/2025-b-sw-construccion-gr2/jsle-resta.git
+[submodule "Examen-02"]
+	path = Examen-02
+	url = https://github.com/2025-b-sw-construccion-gr2/salazar-2025-b-glsd-sw-gr2.git
